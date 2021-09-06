@@ -1,0 +1,69 @@
+@media(max-width:576px){
+    .navbar-light .navbar-nav .nav-link {
+        color: #fff !important;
+        position: relative;
+        padding: 0;
+        margin-left: 0px;
+        margin: 5px 0;
+        text-align: center;
+        display: inline-block;
+    }
+    .phone {
+        display: none;
+    }
+    header .hg {
+        min-height: 70vh;
+        text-align: center;
+        margin: auto !important;
+    }
+    .mg{
+        margin: auto;
+    }
+    .features_section .list{
+        margin: auto;
+    }
+    .features_section .list-row{
+        padding-top: 10px !important;
+    }
+    .bottom_phone .phone3{
+        padding-bottom: 0px !important;
+    }
+    .phones_section img {
+        width: 75%;
+    }
+    .phone-img-2{
+        text-align: center;
+    }
+    .testimonial_section {
+        padding: 0px !important;
+        padding-top: 10px !important;
+    }
+    .contact_section .heading{
+        padding: 25px 0px !important;
+    }
+    .contact_form {
+        width: 80%;
+    }
+    .contact_form form textarea {
+        margin-top: 20px;
+    }
+    .pricing_table .padding{
+        padding: 0px !important;
+    }
+}
+@media(max-width:425px){
+    .btn_viwe {
+        margin-left: 0;
+    }
+    .price p {
+        padding: 25px 20px;
+        margin: 0px;
+    }
+}
+@media(max-width:411px){
+    .btn_viwe {
+        margin:15px 0;
+    } 
+    header .hg {
+        min-height: 80vh;
+}
